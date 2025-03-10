@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//github.com/khoaIT06.io/AdminITRegis/static/css/main.e6c13ad2.css",
-    "main.js": "//github.com/khoaIT06.io/AdminITRegis/static/js/main.17d4422d.js",
-    "static/js/453.4277b988.chunk.js": "//github.com/khoaIT06.io/AdminITRegis/static/js/453.4277b988.chunk.js",
-    "static/media/logo_dthu.png": "//github.com/khoaIT06.io/AdminITRegis/static/media/logo_dthu.37b44075d1076da409ca.png",
-    "index.html": "//github.com/khoaIT06.io/AdminITRegis/index.html",
-    "main.e6c13ad2.css.map": "//github.com/khoaIT06.io/AdminITRegis/static/css/main.e6c13ad2.css.map",
-    "main.17d4422d.js.map": "//github.com/khoaIT06.io/AdminITRegis/static/js/main.17d4422d.js.map",
-    "453.4277b988.chunk.js.map": "//github.com/khoaIT06.io/AdminITRegis/static/js/453.4277b988.chunk.js.map"
+    "main.css": "/khoaIT06.io/AdminITRegis/static/css/main.e6c13ad2.css",
+    "main.js": "/khoaIT06.io/AdminITRegis/static/js/main.e7c9b838.js",
+    "static/js/453.4277b988.chunk.js": "/khoaIT06.io/AdminITRegis/static/js/453.4277b988.chunk.js",
+    "static/media/logo_dthu.png": "/khoaIT06.io/AdminITRegis/static/media/logo_dthu.37b44075d1076da409ca.png",
+    "index.html": "/khoaIT06.io/AdminITRegis/index.html",
+    "main.e6c13ad2.css.map": "/khoaIT06.io/AdminITRegis/static/css/main.e6c13ad2.css.map",
+    "main.e7c9b838.js.map": "/khoaIT06.io/AdminITRegis/static/js/main.e7c9b838.js.map",
+    "453.4277b988.chunk.js.map": "/khoaIT06.io/AdminITRegis/static/js/453.4277b988.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.17d4422d.js"
+    "static/js/main.e7c9b838.js"
   ]
 }
